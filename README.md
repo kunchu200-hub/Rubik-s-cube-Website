@@ -15,7 +15,7 @@ The website includes a clean top navigation menu with sections for Home, Learn, 
 The interface is built using HTML, CSS, and JavaScript, with responsive design techniques and CSS custom properties (variables) for consistent styling and easier theme management. The design uses a modern dashboard-inspired layout with interactive buttons, animated 3D content, and mobile-friendly navigation.
 (This website is adapts a main navigation interface)
 ___________________________________________________________________________________________________
-Additional information
+# Additional information
 
 Used visual studio code to create the code.
 Use live server to acces the 3D models. (The models don't work without a server because protocols)
