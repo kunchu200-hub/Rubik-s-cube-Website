@@ -18,7 +18,7 @@ ________________________________________________________________________________
 # Additional information
 
 Used visual studio code to create the code.
-Use live server to acces the 3D models. (The models don't work without a server because protocols)
+Use live server to acces the 3D models. (The models don't work without a server because of protocols)
 ____________________________________________________________________________________________________
 
 <img width="1919" height="894" alt="Screenshot 2026-05-21 230316" src="https://github.com/user-attachments/assets/bb7d93e7-c05b-42f9-88d5-cf63a7eb41d3" />
