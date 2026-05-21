@@ -3,9 +3,8 @@ A rubiks's dashboard. A website prototype.
 ________________________________________________________________________________________________
 
 Made a rubki's cube dashboard. 
-Interactive 3D Rubik’s Cube viewer
-Mobile-friendly responsive design
-Mobile-friendly responsive design
+Interactive 3D Rubik’s Cube viewer,
+Mobile-friendly responsive design.
 
 _________________________________________________________________________________________________
 # Description
